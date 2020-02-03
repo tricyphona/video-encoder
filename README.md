@@ -108,4 +108,13 @@ TP, Set maximum true peak. Range is -9.0 - +0.0. Default value is -3.0.
 
 ## Log
 
-The encoder try to log as much as possible.
+The encoder tries to log as much as possible.
+
+
+## Early stage script
+
+While this script is used to prepare for productions it is still in its early stages and a lot will be done in the future to update.
+
+Things in the pipeline for the future:
+- UI
+- Bugfixes
