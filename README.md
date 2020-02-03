@@ -20,6 +20,7 @@ Make sure that Python is installed on the machine.
 4. grap the new file from the `Media Destination Folder`.
 5. Press 'q' to stop the script
 
+[![Video Encoder Usage Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/Ho9EOl3X8a0 "Video Encoder Usage Video")
 
 ## Config settings
 
