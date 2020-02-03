@@ -1,0 +1,5 @@
+Log.txt
+*.mp4
+.vscode/.ropeproject/config.py
+.vscode/.ropeproject/objectdb
+*.pyc

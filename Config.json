@@ -1,0 +1,29 @@
+{
+    "Folder":
+    {
+        "Media Folder": "Media/",
+        "Media Destination Folder": "MediaDestinationFolder/",
+        "Garbage Folder": "GarbageFolder/"
+    },
+    "Aproved Extension":
+        {
+           "Extension":"[mp4,mov]" 
+        },
+    "VideoEncoder":
+        {
+            "Vcodec": "libx264",
+            "Fps": "59.94",
+            "Resolution":"1920:1080",
+            "Bitrate":"12M",
+            "Buffer":"24M"
+
+        },
+    "AudioEncoder": {
+        "Acodec": "aac",
+        "Bitrate": "256k",
+		"LUFS Encoding":true,
+		"Integrated Loudness":"-23",
+		"Maximum True Peak":"-3",
+		"Maximum loudness range":"20"
+    }
+}
