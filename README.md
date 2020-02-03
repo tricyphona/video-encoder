@@ -4,7 +4,7 @@ A simple early stage media encoder build in Python using ffmpeg to batch convert
 
 ## How to install
 
-Make sure that Python is installed on the machine. 
+Make sure that Python is installed on the machine. This build is tested on Python 3.8.
 
 ## Important Notes
 
