@@ -1,6 +1,6 @@
 # Python Video Encoder
 
-A simple media encoder build in Python using ffmpeg to batch convert videofiles to the same LUFS, codec, framerate, bitrate, etc.
+A simple early stage media encoder build in Python using ffmpeg to batch convert videofiles to the same LUFS, codec, framerate, bitrate, etc.
 
 ## How to install
 
