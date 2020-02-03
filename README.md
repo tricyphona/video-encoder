@@ -10,7 +10,7 @@ Make sure that Python 2.7 or 3.6 are installed.
 ## Usage
 
 1. Execute the `Server.py` script.
-2. Add Files to the Media folder.
+2. Add Files to the Media folder. (MAKE SURE THAT THERE ARE NO SPACES IN THE FILE NAME)
 3. Wait for the file to be encoded.
 4. grap the new file from the `Media Destination Folder`.
 5. Press 'q' to stop the script
