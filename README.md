@@ -1,10 +1,10 @@
 # Video Encoder
 
-A simple media encoder build i Python using ffmpeg
+A simple media encoder build in Python using ffmpeg
 
 ## How to install
 
-install python
+Make sure that Python 2.7 or 3.6 are installed. 
 
 
 ## Usage
