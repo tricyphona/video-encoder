@@ -6,11 +6,15 @@ A simple media encoder build in Python using ffmpeg to batch convert videofiles 
 
 Make sure that Python 2.7 or 3.6 are installed. 
 
+## Important Notes
+
+1. Make sure that there are no spaces in the filename as then the encoder will not convert it.
+2. Don't run the script on a critical broadcast computer while live as it will take up most of its CPU power when converting.
 
 ## Usage
 
 1. Execute the `Server.py` script.
-2. Add Files to the Media folder. (MAKE SURE THAT THERE ARE NO SPACES IN THE FILE NAME)
+2. Add Files to the Media folder. 
 3. Wait for the file to be encoded.
 4. grap the new file from the `Media Destination Folder`.
 5. Press 'q' to stop the script
